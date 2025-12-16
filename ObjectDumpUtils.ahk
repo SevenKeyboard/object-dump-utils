@@ -1,4 +1,4 @@
-﻿#Include AutoHotkey v1.1.35+
+﻿#Requires AutoHotkey v1.1.35+
 #Include %A_ScriptDir%
 #Include .\lib\StringEscapeUtils.ahk
 ;==============================================================
